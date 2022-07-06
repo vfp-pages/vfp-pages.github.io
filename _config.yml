@@ -1,1 +1,1 @@
-include: [".well-known/mucklet-configuration"]
+include: [".well-known"]
