@@ -1,0 +1,9 @@
+{
+  "mucklets": [
+    {
+      "name": "Wolfery",
+      "icon": "https://wolfery.com/apple-touch-icon.png",
+      "api": "wss://api.wolfery.com/"
+    }
+  ]
+}
